@@ -1,0 +1,22 @@
+{
+  "name": "Breeze Bridge",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "NickBird",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "breej": "^1.2.0",
+    "ethereumjs-common": "^1.5.2",
+    "ethereumjs-tx": "^2.1.2",
+    "express": "^4.17.1",
+    "nodemon": "^2.0.14",
+    "web3": "^1.6.0",
+    "web3-eth-contract": "^1.6.0"
+  }
+}
