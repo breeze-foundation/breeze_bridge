@@ -1,5 +1,5 @@
 # Breeze Bridge
-Breeze bridge is used to withdraw TMAC tokens from breeze chain to other chains like BSC (Binance Smart Chain)- in wraped format.
+Breeze bridge is used to withdraw TMAC tokens from breeze chain to other chains like BSC (Binance Smart Chain)- in wrapped format.
 
 ## Installation
 Breeze bridge is a node.js application developed on ExpressJs framework. To run
