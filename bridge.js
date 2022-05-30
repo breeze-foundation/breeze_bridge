@@ -39,7 +39,7 @@ const processBridge = async function () {
       token: tmac_token,
       _id: r.data[i]._id,
       user: r.data[i].dest,
-      amount: r.data[i].amount
+      amount: r.data[i].amount - r.data[i].fee
     }
     userArray.push(user)
   }
