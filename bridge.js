@@ -15,7 +15,7 @@ const privateKey = process.env.privKey;
 
 const contract_tom = new Web3EthContract(TMAC_ABI, tmac_token);
 const contract_multi = new Web3EthContract(TRANS_ABI, trans_contract);
-const api = 'https://api.breezechain.org';
+const api = 'https://api.breezescan.io';
 breej.init({ api: api})
 
 start = async function() {
