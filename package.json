@@ -15,8 +15,8 @@
     "ethereumjs-common": "^1.5.2",
     "ethereumjs-tx": "^2.1.2",
     "express": "^4.17.1",
-    "nodemon": "^2.0.14",
-    "web3": "^1.6.0",
+    "nodemon": "^2.0.19",
+    "web3": "^1.7.5",
     "web3-eth-contract": "^1.6.0"
   }
 }
